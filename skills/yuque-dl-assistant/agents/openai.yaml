@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yuque DL Assistant"
+  short_description: "Download Yuque docs to Markdown"
+  default_prompt: "Handle Yuque CLI download tasks, including install checks and session/token guidance."
